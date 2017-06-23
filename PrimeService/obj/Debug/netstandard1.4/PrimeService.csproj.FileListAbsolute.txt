@@ -1,0 +1,6 @@
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard1.4\PrimeService.deps.json
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard1.4\PrimeService.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard1.4\PrimeService.pdb
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard1.4\PrimeService.AssemblyInfo.cs
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard1.4\PrimeService.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard1.4\PrimeService.pdb

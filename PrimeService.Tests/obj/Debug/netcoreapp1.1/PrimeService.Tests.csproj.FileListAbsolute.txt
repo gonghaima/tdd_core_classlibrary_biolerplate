@@ -1,0 +1,13 @@
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\PrimeService.Tests.deps.json
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\PrimeService.Tests.runtimeconfig.json
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\PrimeService.Tests.runtimeconfig.dev.json
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\PrimeService.Tests.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\PrimeService.Tests.pdb
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\PrimeService.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp1.1\PrimeService.pdb
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp1.1\PrimeService.Tests.AssemblyInfo.cs
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp1.1\PrimeService.Tests.dll
+F:\Study\temp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp1.1\PrimeService.Tests.pdb
